@@ -21,8 +21,6 @@ java -jar NumberGuessingGameCLIApp.jar
 ```
 
 ### Usage Example
-
-### Usage Example
 ```bash
 ****** Welcome to the Number Guessing Game! ******
 Type "q" to exit at any stage.
